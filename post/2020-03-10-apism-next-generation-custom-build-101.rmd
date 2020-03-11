@@ -52,4 +52,4 @@ Easy as that. :smiley:
 
 PS:
 
-There are some situations that we might need to access a previous version of APSIM next generation. The strategy here is use `git reset/rebase` to go back in time. It can be troublesome becasue some older versions require the support from the [APSIM.Shared](https://github.com/APSIMInitiative/APSIM.Shared). 
+There are some situations that we might need to access a previous version of APSIM next generation. The strategy here is use `git reset/rebase` to go back in time. It can be troublesome becasue some older versions require the support from the [APSIM.Shared](https://github.com/APSIMInitiative/APSIM.Shared). To compile APSIM.Shared, the same logic applied. 
