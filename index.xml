@@ -27,9 +27,9 @@ The theme was forked from jrutheiser/hugo-lithium-theme and modified by Yihui Xi
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/03/10/apism-next-generation-custom-build-101/</guid>
-      <description>IngredientsVisual Studio is essential.
+      <description>IngredientsHow to clone the ApsimX repositoryHow to buildIngredientsVisual Studio is essential.
 Git has been built into visual studio IDE from 2013 update 1. So not necessary to install git independently. But it is necessary to have some basic understanding of git.
-Github account to clone the repository to local machines. Github is a great platform that host all the repository for many projects. Happy Git and Github for the useR is a great starting point to learn how to use git and github, although it is a bit R-centered.</description>
+Github account to clone the repository to local machines. Github is a great platform that host all the repository for many projects.</description>
     </item>
     
   </channel>
