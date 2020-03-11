@@ -1,0 +1,35 @@
+---
+title: Apism Next Generation Custom build 101
+author: Frank
+date: '2020-03-10'
+categories:
+  - build
+  - errors
+slug: apism-next-generation-custom-build-101
+emoji: true
+---
+
+# Ingredients
+ 
+ - [Visual Studio](https://visualstudio.microsoft.com/) is essential.  
+ - [Git](https://git-scm.com/) has been built into visual studio IDE from 2013 update 1. So not necessary to install git independently. But it is necessary to have some basic understanding of git.  
+ - [Github account](https://github.com/) to clone the repository to local machines. Github is a great platform that host all the repository for many projects. _[Happy Git and Github for the useR](https://happygitwithr.com/)_ is a great starting point to learn how to use git and github, although it is a bit R-centered. :satisfied:  
+ 
+
+# How to clone the ApsimX repository
+
+![](/post/2020-03-10-apism-next-generation-custom-build-101_files/Annotation 2020-03-10 133427.png){width=120% height=120%}
+
+
+![](/post/2020-03-10-apism-next-generation-custom-build-101_files/img (4).png){width=80% height=80%}
+
+# How to build
+
+
+![](/post/2020-03-10-apism-next-generation-custom-build-101_files/Annotation 2020-03-10 095239.png){width=80% height=80%}
+
+![](/post/2020-03-10-apism-next-generation-custom-build-101_files/img (6).png){width=80% height=80%}
+
+
+Easy as that. :smiley:
+
