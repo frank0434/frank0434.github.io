@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Followed Yihui Xie's _blogdown_ book.
+Followed Yihui Xie's _[blogdown](https://bookdown.org/yihui/blogdown/)_ book.
 
 A hugo theme is used rather than the default github pages theme. 
 
