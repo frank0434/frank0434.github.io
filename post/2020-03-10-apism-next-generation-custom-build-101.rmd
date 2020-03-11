@@ -18,6 +18,8 @@ emoji: true
 
 # How to clone the ApsimX repository
 
+First step is to copy the repoitory address from the Github repository page. 
+
 ![](/post/2020-03-10-apism-next-generation-custom-build-101_files/Annotation 2020-03-10 133427.png){width=120% height=120%}
 
 
