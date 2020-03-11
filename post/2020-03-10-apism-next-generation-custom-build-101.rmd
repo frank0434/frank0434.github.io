@@ -35,9 +35,15 @@ output:
 
 # How to build
 
-Once the repository has been cloned to the local storage. Double click on the 
+1. Once the repository has been cloned to the local storage. Double click on the bold text located under the `Local Git Repositories`. 
+
+![](/post/2020-03-10-apism-next-generation-custom-build-101_files/opensln.png){width=80% height=80%}
+
+2. The folder will have a `.sln` file to compile the downloaded APSIM Next Generation. Double click on `ApsimX.sln` to open the solution. 
 
 ![](/post/2020-03-10-apism-next-generation-custom-build-101_files/Annotation 2020-03-10 095239.png){width=80% height=80%}
+
+3. The shortcut key to build the solution is **F6**. Alternatively, the command can be found under the `Build` tag. 
 
 ![](/post/2020-03-10-apism-next-generation-custom-build-101_files/img (6).png){width=80% height=80%}
 
