@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>A documentation website</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on A documentation website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
@@ -17,10 +17,8 @@
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-
       <description>This is a documentation website for recording errors and tricks while learning the APSIM Next Generation to do model development. Some random thoughts might also come along every now and then. 😄
-      
-      The theme was forked from jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+The theme was forked from jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>
@@ -29,13 +27,9 @@
       <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/03/10/apism-next-generation-custom-build-101/</guid>
-      <description>Ingredients
-
-Visual Studio is essential.
-
-Git has been built into visual studio IDE from 2013 update 1. So not necessary to install git independently. But it is necessary to have some basic understanding of git.
-
-Github account to clone the repository to local machines. Github is a great platform that host all the repository for many projects. Happy Git and Github for the useR is a great starting point to learn how to use git and github, although it is a bit R-centered.</description>
+      <description>IngredientsVisual Studio is essential.
+Git has been built into visual studio IDE from 2013 update 1. So not necessary to install git independently. But it is necessary to have some basic understanding of git.
+Github account to clone the repository to local machines. Github is a great platform that host all the repository for many projects. Happy Git and Github for the useR is a great starting point to learn how to use git and github, although it is a bit R-centered.</description>
     </item>
     
   </channel>
