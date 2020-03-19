@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>draft on A documentation website</title>
+    <link>/categories/draft/</link>
+    <description>Recent content in draft on A documentation website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/draft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>holdingdock</title>
+      <link>/2020/03/19/holdingdock/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/19/holdingdock/</guid>
+      <description>I like document the random tips and tricks I picked up along the way so I can have some references for the future self. When I start to learn how to use Apsim Next Generation, I found it is diffcult to learn only by myself simply becasue the learning materials of ApsimNG are scatterred around and every user case could be different. So the idea of using a blog to record all the problem I encountered couldn’t wait any more.</description>
+    </item>
+    
+  </channel>
+</rss>
