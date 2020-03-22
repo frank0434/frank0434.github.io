@@ -12,21 +12,12 @@
     
     
     <item>
-      <title>holdingdock</title>
-      <link>/2020/03/19/holdingdock/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/03/19/holdingdock/</guid>
-      <description>I like document the random tips and tricks I picked up along the way so I can have some references for the future self. When I start to learn how to use Apsim Next Generation, I found it is diffcult to learn only by myself simply becasue the learning materials of ApsimNG are scatterred around and every user case could be different. So the idea of using a blog to record all the problem I encountered couldn’t wait any more.</description>
-    </item>
-    
-    <item>
       <title>Git submodule to use Hugo theme on githubPage</title>
       <link>/2020/03/14/git-submodule-to-have-the-best-from-both-githubpage-and-hugo-theme/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/03/14/git-submodule-to-have-the-best-from-both-githubpage-and-hugo-theme/</guid>
-      <description>DriverIngredientsStep by Step recieptReference linkDriverOriginally, I was keen to just use the githubPage approach to do this documentation blog because it feels easy. Then, the Yihui’s book Blogdown introduces this amazing HUGO themes. I became greed and want to have the best of both worlds although I realised that githubPage is not the number one recommendation for delopying the website when have half way through the book.</description>
+      <description>DriverThe ideaIngredientsSoftware and LibrariesGithub repositoriesStep by Step receiptNext stepDriverOriginally, I was keen to just use the githubPage approach to do this documentation blog because it feels easy. Then, the Yihui’s book Blogdown introduces this amazing HUGO themes. I became greed and want to have the best of both worlds although I realised that githubPage is not the number one recommendation for deploying the website when half way through the book.</description>
     </item>
     
     <item>
