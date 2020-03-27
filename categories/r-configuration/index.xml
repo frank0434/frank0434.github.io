@@ -17,7 +17,7 @@
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/03/27/found-your-way-home-r-default-library-in-windows/</guid>
-      <description>Reason about this postChange the default library via environment variablesReason about this postMany R learner (including myself) probably came across the default R library issues in windows system, especially when you are using a company laptop/PC. There are lots of discussion about changing the default directories in R on StackOverFlow and other websites. However, I found using Environment variables seems the easiest way to go.</description>
+      <description>Reason about this postChange the default library via environment variablesReason about this postMany R learner (including myself) probably came across the default R library issues in windows system, especially when you are using a company laptop/PC. There are lots of discussion about changing the default directories in R on StackOverFlow and other websites. However, I found using Environment variables seems to be the easiest way to go.</description>
     </item>
     
   </channel>
