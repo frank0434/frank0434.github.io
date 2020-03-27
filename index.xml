@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Found your way home - R default library in windows</title>
+      <link>/2020/03/27/found-your-way-home-r-default-library-in-windows/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/27/found-your-way-home-r-default-library-in-windows/</guid>
+      <description>Reason about this postChange the default library via environment variablesReason about this postMany R learner (including myself) probably came across the default R library issues in windows system, especially when you are using a company laptop/PC.There are lots of discussion about changing the default directories in R on StackOverFlow and other website. However, I found using **Environment variables* seems the easist way to go.</description>
+    </item>
+    
+    <item>
       <title>Git submodule to use Hugo theme on githubPage</title>
       <link>/2020/03/14/git-submodule-to-have-the-best-from-both-githubpage-and-hugo-theme/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
