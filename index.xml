@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Blance is the key to validate ApsimX simulations</title>
+      <link>/2020/03/28/blance-is-the-key-to-validate-your-simulation/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/28/blance-is-the-key-to-validate-your-simulation/</guid>
+      <description>IntroductionWater BalanceNitrogen BalanceBiomass BalanceChecking methodsVisulisation tool - ApsimNG build in toolsPotential automated validation - R/PythonIntroductionIt is critical to inspect the simulation result from a Apsim model so that we are confidence to say the model does what is expected. For a beginner, it might feel hopeless when we stare at the UI with hundreds of parameters can be modified and output.</description>
+    </item>
+    
+    <item>
       <title>Found your way home - R default library in windows</title>
       <link>/2020/03/27/found-your-way-home-r-default-library-in-windows/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
