@@ -6,18 +6,41 @@
     <description>Recent content in Posts on A documentation website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blance is the key to validate ApsimX simulations</title>
+      <title>Install R package from private repository via `token`</title>
+      <link>/2020/04/07/install-r-package-from-private-repository-via-key/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/07/install-r-package-from-private-repository-via-key/</guid>
+      <description>AimPrerequisiteStep by StepAimTo install a R package that is in a private repository on GitHub.
+PrerequisiteA Github account.
+The account has been authorised to access the private repository where the package is located.
+R and Rstudio. 😂
+R package devtools.
+R package usethis.Step by StepUsing a personal access token is probably the easiest way to achieve the aim, although it might not be the safest.</description>
+    </item>
+    
+    <item>
+      <title>Manual validation of ApsimNG-Lucerne </title>
+      <link>/2020/04/05/manual-validation-of-apsimng-lucerne/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/05/manual-validation-of-apsimng-lucerne/</guid>
+      <description>The caseThe software and versionVisulisation tool - ApsimNG build in toolsPotential automated validation - R/PythonThe caseApsimNG is a great tool for climate change studies once we have a comprehensive plant model with realibale climate data and detailted soil propterties. However, it will be waster of time if the simulation results make no biological sense. The validation of a model is a key step before we ran the massive simulations for climate change scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Balance is the key to validate ApsimX simulations</title>
       <link>/2020/03/28/blance-is-the-key-to-validate-your-simulation/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/03/28/blance-is-the-key-to-validate-your-simulation/</guid>
-      <description>IntroductionWater BalanceNitrogen BalanceBiomass BalanceChecking methodsVisulisation tool - ApsimNG build in toolsPotential automated validation - R/PythonIntroductionIt is critical to inspect the simulation result from a Apsim model so that we are confidence to say the model does what is expected. For a beginner, it might feel hopeless when we stare at the UI with hundreds of parameters can be modified and output.</description>
+      <description>IntroductionWater BalanceNitrogen BalanceBiomass BalanceIntroductionIt is critical to inspect the simulation result from a Apsim model so that we are confidence to say the model does what is expected. For a beginner, it might feel hopeless when we stare at the UI with hundreds of parameters can be modified and output. Despite the complicity of Apsim, the entire idea of simulation checking is about biologically meaningful.</description>
     </item>
     
     <item>
@@ -59,11 +82,11 @@
     </item>
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
+      <title>A Plain Markdown Post (The reference)</title>
+      <link>/2016/12/30/a-plain-markdown-post-the-reference/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
+      <guid>/2016/12/30/a-plain-markdown-post-the-reference/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>

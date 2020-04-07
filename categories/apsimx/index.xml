@@ -6,18 +6,27 @@
     <description>Recent content in apsimx on A documentation website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/apsimx/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blance is the key to validate ApsimX simulations</title>
+      <title>Manual validation of ApsimNG-Lucerne </title>
+      <link>/2020/04/05/manual-validation-of-apsimng-lucerne/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/05/manual-validation-of-apsimng-lucerne/</guid>
+      <description>The caseThe software and versionVisulisation tool - ApsimNG build in toolsPotential automated validation - R/PythonThe caseApsimNG is a great tool for climate change studies once we have a comprehensive plant model with realibale climate data and detailted soil propterties. However, it will be waster of time if the simulation results make no biological sense. The validation of a model is a key step before we ran the massive simulations for climate change scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Balance is the key to validate ApsimX simulations</title>
       <link>/2020/03/28/blance-is-the-key-to-validate-your-simulation/</link>
       <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/03/28/blance-is-the-key-to-validate-your-simulation/</guid>
-      <description>IntroductionWater BalanceNitrogen BalanceBiomass BalanceChecking methodsVisulisation tool - ApsimNG build in toolsPotential automated validation - R/PythonIntroductionIt is critical to inspect the simulation result from a Apsim model so that we are confidence to say the model does what is expected. For a beginner, it might feel hopeless when we stare at the UI with hundreds of parameters can be modified and output.</description>
+      <description>IntroductionWater BalanceNitrogen BalanceBiomass BalanceIntroductionIt is critical to inspect the simulation result from a Apsim model so that we are confidence to say the model does what is expected. For a beginner, it might feel hopeless when we stare at the UI with hundreds of parameters can be modified and output. Despite the complicity of Apsim, the entire idea of simulation checking is about biologically meaningful.</description>
     </item>
     
     <item>
