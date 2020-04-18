@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>apxim classic on A documentation website</title>
+    <link>/categories/apxim-classic/</link>
+    <description>Recent content in apxim classic on A documentation website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/apxim-classic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Preparing data for Apsim Classic</title>
+      <link>/2020/04/18/preparing-data-for-apsim-classic/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/18/preparing-data-for-apsim-classic/</guid>
+      <description>Key commentsExample 1 Weather dataExample 2: Site dataExample 3: Dry matter and soil water content dataContributed By Stephanie Langer
+Key commentsThe data should be organised in a way Apsim can read it. The screenshots below show examples for different templates. First some general comments:
+Data can be stored one file or separated, even csv is fine;
+Some optional comments in the top (comments start with a “!</description>
+    </item>
+    
+  </channel>
+</rss>

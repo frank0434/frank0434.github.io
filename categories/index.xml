@@ -6,10 +6,19 @@
     <description>Recent content in Categories on A documentation website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>apxim classic</title>
+      <link>/categories/apxim-classic/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/apxim-classic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>apsimx</title>
