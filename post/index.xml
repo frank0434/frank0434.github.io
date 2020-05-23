@@ -6,10 +6,23 @@
     <description>Recent content in Posts on A documentation website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Common Errors and solutions </title>
+      <link>/2020/05/04/common-errors-and-solutions/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/04/common-errors-and-solutions/</guid>
+      <description>1. Invalid report variables2. Radiation UnitsTo be continueThis page is the FAQ which contains random errors and potential solutions of ApsimX
+1. Invalid report variablesError in report Output: Invalid report variables found:RUEshootPossible Cause: 0 or other numeric values divided by 0.
+Solution: Add a small number into the denominator. [ExtraVariables].Script.AverageInterceptedRadiation + 0.00000001
+2. Radiation UnitsContributed by Edmar
+Note: Units in the paper were in MJ of PAR …APSIM works in global radiation so we can multiply it by 2x</description>
+    </item>
     
     <item>
       <title>Preparing data for Apsim Classic</title>
@@ -91,16 +104,6 @@ Key commentsThe data should be organised in a way Apsim can read it. The screen
       <description>IngredientsHow to clone the ApsimX repositoryHow to buildIngredientsVisual Studio is essential.
 Git has been built into visual studio IDE from 2013 update 1. So not necessary to install git independently. But it is necessary to have some basic understanding of git.
 Github account to clone the repository to local machines. Github is a great platform that host all the repository for many projects.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post (The reference)</title>
-      <link>/2016/12/30/a-plain-markdown-post-the-reference/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/2016/12/30/a-plain-markdown-post-the-reference/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
   </channel>

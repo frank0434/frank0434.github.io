@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.68.3" />
+
+
+<title>Common Errors and solutions  - A documentation website</title>
+<meta property="og:title" content="Common Errors and solutions  - A documentation website">
+
+
+  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+
+<link href='//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/%3cnil%3e"
+         width=""
+         height=""
+         alt="">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/">Posts</a></li>
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="https://github.com/frank0434/ApsimXLearn">GitHub</a></li>
+    
+    <li><a href="https://www.linkedin.com/in/jian-aka-frank-liu-9623379a/">Linkedin</a></li>
+    
+    <li><a href="https://twitter.com/frank0434">Twitter</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">1 min read</span>
+    
+
+    <h1 class="article-title">Common Errors and solutions </h1>
+
+    
+    <span class="article-date">2020-05-04</span>
+    
+
+    <div class="article-content">
+      
+
+<div id="TOC">
+<ul>
+<li><a href="#invalid-report-variables">1. Invalid report variables</a></li>
+<li><a href="#radiation-units">2. Radiation Units</a></li>
+<li><a href="#to-be-continue">To be continue</a></li>
+</ul>
+</div>
+
+<p><strong>This page is the FAQ which contains random errors and potential solutions of <a href="https://www.apsim.info/">ApsimX</a></strong></p>
+<div id="invalid-report-variables" class="section level2">
+<h2>1. Invalid report variables</h2>
+<pre><code>Error in report Output: Invalid report variables found:
+RUEshoot</code></pre>
+<p><strong>Possible Cause:</strong> 0 or other numeric values divided by 0.<br />
+<strong>Solution:</strong> Add a small number into the denominator. <code>[ExtraVariables].Script.AverageInterceptedRadiation + 0.00000001</code></p>
+</div>
+<div id="radiation-units" class="section level2">
+<h2>2. Radiation Units</h2>
+<p>Contributed by <a href="https://github.com/ed2014">Edmar</a></p>
+<p>Note: Units in the paper were in MJ of PAR …
+APSIM works in global radiation so we can multiply it by 2x</p>
+</div>
+<div id="to-be-continue" class="section level2">
+<h2>To be continue</h2>
+</div>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+          
+           <li>
+           <a href="https://bookdown.org/yihui/blogdown/" class="footer-links-kudos">Followed <img src="/images/blogdownlogo.png" alt="Img link to blogdown website" width="22" height="22"></a>
+          </li>
+          <li>
+           <a href="https://github.com/frank0434/ApsimXLearn" class="footer-links-kudos">Report issues or contribute?<img src="/images/github.png" alt="Img link to github repo" width="44" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/yaml.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+
+    
+  </body>
+</html>
+
