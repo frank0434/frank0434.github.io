@@ -81,28 +81,37 @@
 
 <div id="TOC">
 <ul>
-<li><a href="#invalid-report-variables">1. Invalid report variables</a></li>
-<li><a href="#radiation-units">2. Radiation Units</a></li>
-<li><a href="#to-be-continue">To be continue</a></li>
+<li><a href="#invalid-report-variables"><span class="toc-section-number">1</span> Invalid report variables</a></li>
+<li><a href="#radiation-units"><span class="toc-section-number">2</span> Radiation Units</a></li>
+<li><a href="#no-such-column-t.zone---unsloved"><span class="toc-section-number">3</span> <code>no such column: T.Zone</code> - <em>Unsloved</em></a></li>
+<li><a href="#system.nullreferenceexception-object-reference-not-set-to-an-instance-of-an-object."><span class="toc-section-number">4</span> <code>System.NullReferenceException: 'Object reference not set to an instance of an object.'</code></a></li>
 </ul>
 </div>
 
 <p><strong>This page is the FAQ which contains random errors and potential solutions of <a href="https://www.apsim.info/">ApsimX</a></strong></p>
-<div id="invalid-report-variables" class="section level2">
-<h2>1. Invalid report variables</h2>
+<div id="invalid-report-variables" class="section level1">
+<h1><span class="header-section-number">1</span> Invalid report variables</h1>
 <pre><code>Error in report Output: Invalid report variables found:
 RUEshoot</code></pre>
 <p><strong>Possible Cause:</strong> 0 or other numeric values divided by 0.<br />
 <strong>Solution:</strong> Add a small number into the denominator. <code>[ExtraVariables].Script.AverageInterceptedRadiation + 0.00000001</code></p>
 </div>
-<div id="radiation-units" class="section level2">
-<h2>2. Radiation Units</h2>
+<div id="radiation-units" class="section level1">
+<h1><span class="header-section-number">2</span> Radiation Units</h1>
 <p>Contributed by <a href="https://github.com/ed2014">Edmar</a></p>
 <p>Note: Units in the paper were in MJ of PAR …
 APSIM works in global radiation so we can multiply it by 2x</p>
 </div>
-<div id="to-be-continue" class="section level2">
-<h2>To be continue</h2>
+<div id="no-such-column-t.zone---unsloved" class="section level1">
+<h1><span class="header-section-number">3</span> <code>no such column: T.Zone</code> - <em>Unsloved</em></h1>
+<p>Run <code>apimx</code> in visual studio to figure out where the error from.</p>
+<p><code>Common Lanuage Runtime Exceptions</code> must be ticked to trace the error source.</p>
+</div>
+<div id="system.nullreferenceexception-object-reference-not-set-to-an-instance-of-an-object." class="section level1">
+<h1><span class="header-section-number">4</span> <code>System.NullReferenceException: 'Object reference not set to an instance of an object.'</code></h1>
+<p>Potential casue 1:</p>
+<p><img src="/post/2020-05-04-common-errors-and-solutions_files/Object%20referenece%20not%20set%20to%20an%20instance%20of%20an%20object1.png" style="width:100.0%;height:100.0%" />
+Solution is to delete the empty line in between the script.</p>
 </div>
 
     </div>

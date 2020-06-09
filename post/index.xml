@@ -6,10 +6,30 @@
     <description>Recent content in Posts on A documentation website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploy shinyapp and postgreSQL db via docker locally</title>
+      <link>/2020/06/04/deploy-shinyapp-and-postgresql-db-via-docker-locally/</link>
+      <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/04/deploy-shinyapp-and-postgresql-db-via-docker-locally/</guid>
+      <description>Found orphan containersdocker-compose takes the name of the directory it is in as the default project name.
+You can set a different project name by using -p or –project-name.https://stackoverflow.com/questions/50947938/docker-compose-orphan-containers-warninghttps://docs.docker.com/compose/reference/overview/#use--p-to-specify-a-project-name</description>
+    </item>
+    
+    <item>
+      <title>Using Apsim-Slurp model to estimate kl</title>
+      <link>/2020/06/02/using-apsim-slurp-model-to-estimate-kl/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/06/02/using-apsim-slurp-model-to-estimate-kl/</guid>
+      <description>Two values are needed:
+1. \(R/R_0\) to calculate the leaf area index and the height2. extincation coefcient. to calculainstte leaf area</description>
+    </item>
     
     <item>
       <title>Working example of ApsimX `Edit` feature</title>
@@ -27,11 +47,9 @@
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/04/common-errors-and-solutions/</guid>
-      <description>1. Invalid report variables2. Radiation UnitsTo be continueThis page is the FAQ which contains random errors and potential solutions of ApsimX
-1. Invalid report variablesError in report Output: Invalid report variables found:RUEshootPossible Cause: 0 or other numeric values divided by 0.
-Solution: Add a small number into the denominator. [ExtraVariables].Script.AverageInterceptedRadiation + 0.00000001
-2. Radiation UnitsContributed by Edmar
-Note: Units in the paper were in MJ of PAR …APSIM works in global radiation so we can multiply it by 2x</description>
+      <description>1 Invalid report variables2 Radiation Units3 no such column: T.Zone - Unsloved4 System.NullReferenceException: &#39;Object reference not set to an instance of an object.&#39;This page is the FAQ which contains random errors and potential solutions of ApsimX
+1 Invalid report variablesError in report Output: Invalid report variables found:RUEshootPossible Cause: 0 or other numeric values divided by 0.
+Solution: Add a small number into the denominator.</description>
     </item>
     
     <item>
