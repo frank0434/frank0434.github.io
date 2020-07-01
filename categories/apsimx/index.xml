@@ -6,10 +6,20 @@
     <description>Recent content in apsimx on A documentation website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/apsimx/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Implenment physiological process in apsimx model</title>
+      <link>/2020/07/01/implenment-physiological-process-in-apsimx-model/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/07/01/implenment-physiological-process-in-apsimx-model/</guid>
+      <description>AimModify the plant model itselfAimWater stress has a significant effect on leaf area expansion rate. To implenmentthe effects, one needs to modify the model or use manager script to update the model states.
+Modify the plant model itselfThe process of the effect. Water stress hit the leaf and reduce the rate of expansion. This could be quantified by calculating the ratio of water demand and supply.</description>
+    </item>
     
     <item>
       <title>Using Apsim-Slurp model to estimate kl</title>
@@ -37,9 +47,7 @@
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/05/04/common-errors-and-solutions/</guid>
-      <description>1 Invalid report variables2 Radiation Units3 no such column: T.Zone - Unsloved4 System.NullReferenceException: &#39;Object reference not set to an instance of an object.&#39;This page is the FAQ which contains random errors and potential solutions of ApsimX
-1 Invalid report variablesError in report Output: Invalid report variables found:RUEshootPossible Cause: 0 or other numeric values divided by 0.
-Solution: Add a small number into the denominator.</description>
+      <description>1 Invalid report variables2 Radiation Units3 no such column: T.Zone - Unsloved4 System.NullReferenceException: &#39;Object reference not set to an instance of an object.&#39;5 Number of soil layers in SoilWater is different to number of layers in SoilWater.Crop6 Object reference not set to an instance of an object.7 ‘xcopy’ is not recognized as an internal or external commandThis page is the FAQ which contains random errors and potential solutions of ApsimX</description>
     </item>
     
     <item>
